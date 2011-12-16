@@ -1,0 +1,65 @@
+\documentclass[pdftex,10pt,a4paper]{report}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{natbib}
+\usepackage{url}
+%% Define a new 'leo' style for the package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\ttfamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\begin{document}
+%
+\begin{titlepage}
+\begin{center}
+% Upper part of the page
+\textsc{\color{Sepia}{\LARGE EC~320}}\\[1.5cm]
+\textsc{\Large Week-Eight}
+\HRule\\[0.5cm]
+{ \huge American Debt}\\[0.4cm]
+\HRule 
+
+
+% Author and supervisor
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+Jason \textsc{Mansfield}
+\end{flushleft}
+\end{minipage}
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Instructor:} \\
+Dr.~Anthony \textsc{Pizur}
+\end{flushright}
+\end{minipage}
+\vfill
+
+% Bottom of the page
+{\large \today}
+
+\end{center}
+\end{titlepage}
+
+\section{Debt and Deficit}
+\begin{doublespace}
+The United States debt has been spinning seemingly out of control. It appears that Congress is more concerned with competition and squabbling more than leading a country. Unemployment is rampant and the middle class is being driven into poverty. 
+\end{doublespace} 
+\section{International Financial Policy and Exchange Rates }
+\section{Macroeconomic policy and goals at the global level}
+
+
+\clearpage
+% bib stuff
+    \nocite{*}
+    \bibliographystyle{apalike}
+    \bibliography{cite}
+
+\end{document}
+
+
