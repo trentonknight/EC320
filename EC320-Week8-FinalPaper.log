@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.12.14)  15 DEC 2011 20:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.12.14)  15 DEC 2011 20:47
 entering extended mode
  %&-line parsing enabled.
 **EC320-Week8-FinalPaper.tex
@@ -358,15 +358,25 @@ Overfull \hbox (6.18126pt too wide) in paragraph at lines 54--54
 []\OT1/cmr/bx/n/14.4 Macroeconomic pol-icy and goals at the global
  []
 
-[1]
-No file EC320-Week8-FinalPaper.bbl.
+[1] (./EC320-Week8-FinalPaper.bbl
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+) [2
+
+
+]
 (./EC320-Week8-FinalPaper.aux) ) 
 Here is how much of TeX's memory you used:
- 9823 strings out of 495061
- 184399 string characters out of 1182620
- 220591 words of memory out of 3000000
- 12840 multiletter control sequences out of 15000+50000
- 6393 words of font info for 23 fonts, out of 3000000 for 9000
+ 9854 strings out of 495061
+ 184960 string characters out of 1182620
+ 220644 words of memory out of 3000000
+ 12864 multiletter control sequences out of 15000+50000
+ 7694 words of font info for 27 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  56i,5n,55p,433b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/am
@@ -374,10 +384,13 @@ sfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
 mcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
 exmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on EC320-Week8-FinalPaper.pdf (2 pages, 76040 bytes).
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
+mti7.pfb>
+Output written on EC320-Week8-FinalPaper.pdf (3 pages, 110463 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
