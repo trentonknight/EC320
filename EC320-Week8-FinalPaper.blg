@@ -2,44 +2,44 @@ This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: EC320-Week8-FinalPaper.aux
 The style file: apalike.bst
 Database file #1: cite.bib
-You've used 1 entry,
+You've used 5 entries,
             1935 wiz_defined-function locations,
-            477 strings with 3933 characters,
-and the built_in function-call counts, 262 in all, are:
-= -- 26
-> -- 7
-< -- 1
-+ -- 2
-- -- 2
-* -- 15
-:= -- 56
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 10
-empty$ -- 16
-format.name$ -- 3
-if$ -- 46
+            494 strings with 4737 characters,
+and the built_in function-call counts, 1325 in all, are:
+= -- 136
+> -- 46
+< -- 4
++ -- 14
+- -- 14
+* -- 86
+:= -- 268
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 33
+chr.to.int$ -- 5
+cite$ -- 5
+duplicate$ -- 51
+empty$ -- 79
+format.name$ -- 19
+if$ -- 241
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 8
-num.names$ -- 3
-pop$ -- 3
+newline$ -- 28
+num.names$ -- 15
+pop$ -- 19
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 32
 quote$ -- 0
-skip$ -- 10
+skip$ -- 45
 stack$ -- 0
-substring$ -- 12
+substring$ -- 60
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
+type$ -- 30
 warning$ -- 0
-while$ -- 2
+while$ -- 10
 width$ -- 0
-write$ -- 14
+write$ -- 63

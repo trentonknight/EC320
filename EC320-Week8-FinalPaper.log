@@ -1,15 +1,12 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.12.14)  15 DEC 2011 21:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.12.14)  16 DEC 2011 23:39
 entering extended mode
  %&-line parsing enabled.
-**EC320-Week8-FinalPaper.tex
+**\input EC320-Week8-FinalPaper.tex
 (./EC320-Week8-FinalPaper.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
 (/usr/share/texmf-texlive/tex/latex/base/report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -411,7 +408,7 @@ Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 \c@Item=\count112
 \c@Hfootnote=\count113
 )
-*hyperref using driver hpdftex*
+*hyperref using default driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
 \Fld@listcount=\count114
@@ -423,6 +420,10 @@ Package: natbib 2009/07/16 8.31 (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count115
 )
+
+LaTeX Warning: Unused global option(s):
+    [pdflatex].
+
 (./EC320-Week8-FinalPaper.aux)
 \openout1 = `EC320-Week8-FinalPaper.aux'.
 
@@ -477,52 +478,115 @@ LaTeX Info: Redefining \pageref on input line 17.
 Package xcolor Warning: Incompatible color definition on input line 22.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <12> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <8> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 36.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (6.18126pt too wide) in paragraph at lines 55--55
-[]\OT1/cmr/bx/n/14.4 Macroeconomic pol-icy and goals at the global
- []
-
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.58 \clearpage
-                [1] (./EC320-Week8-FinalPaper.bbl
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 5.
+l.65 \end{quotation}
+                     [1] [2] [3] (./EC320-Week8-FinalPaper.bbl
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
 
 (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 5.
-) [2
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+[]\OT1/cmr/m/n/12 Colleen, C. (2011).  Pres-i-dent obama: Both par-ties have
+ []
 
 
-]
-(./EC320-Week8-FinalPaper.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+\OT1/cmr/m/n/12 a re-spon-si-bil-ity to solve this prob-lem \OMS/cmsy/m/n/12 j 
+\OT1/cmr/m/n/12 the white house.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+\OT1/cmr/m/n/12 http://www.whitehouse.gov/blog/2011/07/25/president-obama-defic
+it-
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 12--18
+\OT1/cmr/m/n/12 house.  http://www.whitehouse.gov/the-press-office/2011/06/13/w
+hite-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+[]\OT1/cmr/m/n/12 Phillips, M. (2011).  IN-FO-GRAPHIC: where does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+\OT1/cmr/m/n/12 our na-tional debt come from? \OMS/cmsy/m/n/12 j \OT1/cmr/m/n/1
+2 the white house.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+\OT1/cmr/m/n/12 http://www.whitehouse.gov/blog/2011/07/26/infographic-where-doe
+s-
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 33--36
+[]\OT1/cmr/m/n/12 Tritch, T. (2011).  How the deficit got this big - NY-Times.c
+om.
+ []
+
+
+Overfull \hbox (2.49814pt too wide) in paragraph at lines 33--36
+\OT1/cmr/m/n/12 http://www.nytimes.com/2011/07/24/opinion/sunday/24sun4.html?[]
+r=1. 
+ []
+
+) [4
+
+
+] (./EC320-Week8-FinalPaper.aux) ) 
 Here is how much of TeX's memory you used:
- 12950 strings out of 495061
- 232457 string characters out of 1182620
- 282231 words of memory out of 3000000
- 15882 multiletter control sequences out of 15000+50000
- 6999 words of font info for 25 fonts, out of 3000000 for 9000
+ 12987 strings out of 495061
+ 233047 string characters out of 1182620
+ 286376 words of memory out of 3000000
+ 15906 multiletter control sequences out of 15000+50000
+ 9437 words of font info for 33 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 56i,5n,55p,433b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
-mcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on EC320-Week8-FinalPaper.pdf (3 pages, 90286 bytes).
+ 56i,5n,55p,763b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on EC320-Week8-FinalPaper.pdf (5 pages, 87043 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 

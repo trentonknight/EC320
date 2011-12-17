@@ -1,5 +1,21 @@
 \begin{thebibliography}{}
 
+\bibitem[Colleen, 2011]{curtis_colleen_president_2011}
+Colleen, C. (2011).
+\newblock President obama: Both parties have a responsibility to solve this
+  problem {\textbar} the white house.
+\newblock
+  http://www.whitehouse.gov/blog/2011/07/25/president-obama-deficit-reduction-%
+requires-tackling-entitlements-and-tax-reform.
+
+\bibitem[House, 2011]{white}
+House, U.~W. (2011).
+\newblock White house launches campaign to cut waste: Vice president to take on
+  making government more accountable {\textbar} the white house.
+\newblock
+  http://www.whitehouse.gov/the-press-office/2011/06/13/white-house-launches-c%
+ampaign-cut-waste-vice-president-take-making-gover.
+
 \bibitem[Phillips, 2011]{phillips_infographic:_2011}
 Phillips, M. (2011).
 \newblock {INFOGRAPHIC:} where does our national debt come from? {\textbar} the
@@ -7,5 +23,15 @@ Phillips, M. (2011).
 \newblock
   http://www.whitehouse.gov/blog/2011/07/26/infographic-where-does-our-nationa%
 l-debt-come.
+
+\bibitem[Reinhart et~al., 2003]{reinhart2003debt}
+Reinhart, C., Rogoff, K., and Savastano, M. (2003).
+\newblock Debt intolerance.
+\newblock Technical report, National Bureau of Economic Research.
+
+\bibitem[Tritch, 2011]{tritch_how_2011}
+Tritch, T. (2011).
+\newblock How the deficit got this big - {NYTimes.com}.
+\newblock http://www.nytimes.com/2011/07/24/opinion/sunday/24sun4.html?\_r=1.
 
 \end{thebibliography}
